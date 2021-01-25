@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalRQueueApp", "SignalRQueueApp\SignalRQueueApp.csproj", "{F2B91595-2A47-4C13-8149-F062B1C4AD2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailSender", "EmailSender\EmailSender.csproj", "{BCD02226-26FB-468D-8C07-B4F868A54886}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2B91595-2A47-4C13-8149-F062B1C4AD2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B91595-2A47-4C13-8149-F062B1C4AD2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B91595-2A47-4C13-8149-F062B1C4AD2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B91595-2A47-4C13-8149-F062B1C4AD2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCD02226-26FB-468D-8C07-B4F868A54886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD02226-26FB-468D-8C07-B4F868A54886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD02226-26FB-468D-8C07-B4F868A54886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD02226-26FB-468D-8C07-B4F868A54886}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A2AD34E-020D-45E5-8D80-82CB16BAC06F}
+	EndGlobalSection
+EndGlobal
